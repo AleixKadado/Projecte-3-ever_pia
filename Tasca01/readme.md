@@ -1,4 +1,5 @@
 # Fase 1: Anàlisi i Justificació (Document d'Informe)
+![ijojo](img.png)
 
 **Aleix Kadado Sole**  
 21/10/2025  
