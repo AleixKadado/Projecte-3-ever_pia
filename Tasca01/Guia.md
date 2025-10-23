@@ -56,3 +56,14 @@ Confirmar que Bitwarden té la contrasenya per defecte guardada correctament.
 
 ![ssehgerd](captura07.png)
 
+
+## 🗂️ Còpies de Seguretat
+
+Per fer una còpia de seguretat del teu magatzem de contrasenyes a Bitwarden:
+
+1. Ves a **Tools**.
+2. Selecciona **Export Vault**.
+3. Introdueix la teva **contrasenya mestra** per confirmar l'operació.
+4. Guarda el fitxer exportat al teu ordinador de forma segura.
+
+
