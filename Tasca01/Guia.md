@@ -66,4 +66,8 @@ Per fer una còpia de seguretat del teu magatzem de contrasenyes a Bitwarden:
 3. Introdueix la teva **contrasenya mestra** per confirmar l'operació.
 4. Guarda el fitxer exportat al teu ordinador de forma segura.
 
+![asfda](captura08.png)
+
+![asfda](captura09.png)
+
 
