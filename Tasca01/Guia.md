@@ -4,6 +4,7 @@
 
 Instal·lem des de **Microsoft Store** l’aplicació de **Bitwarden**.
 
+
 ## 👤 Creació de Compte
 
 Ara crearem el nostre compte a Bitwarden.
