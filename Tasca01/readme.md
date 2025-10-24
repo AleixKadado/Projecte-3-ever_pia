@@ -107,3 +107,5 @@ Dins el repositori del `projecte-3` heu de crear una carpeta anomenada `tasca01`
 #Solució
 
 [Fase 1: Anàlisi i Justificació](/Tasca01/informe.md)
+
+[Fase 2: Guia d'Ús Tècnica (Manual Operatiu)](/Tasca01/Guia.md)
