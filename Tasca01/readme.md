@@ -106,4 +106,4 @@ Dins el repositori del `projecte-3` heu de crear una carpeta anomenada `tasca01`
 
 #Solució
 
-[Fase 1: Anàlisi i Justificació](
+[Fase 1: Anàlisi i Justificació](/Tasca01/informe.md)
