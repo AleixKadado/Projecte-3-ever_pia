@@ -102,4 +102,4 @@ Els productes finals que s’elaboraran i el seu percentatge en l’avaluació d
 
 #Tasca del projecta
 
-Tasca 01:[Gestor de contrasenyes](tasca01/readme.md)
+Tasca 01:[Gestor de contrasenyes](Tasca01/readme.md)
