@@ -97,3 +97,9 @@ Els productes finals que s’elaboraran i el seu percentatge en l’avaluació d
 
 > 🔸 **Treball individual:** cal treure una nota mínima de **4** per fer mitjana amb el treball en equip.  
 > 🔸 **Treball en equip:** es valora la coordinació, la comunicació i la qualitat tècnica.
+
+
+
+#Tasca del projecta
+
+Tasca 01:[Gestor de contrasenyes](tasca01/readme.md)
