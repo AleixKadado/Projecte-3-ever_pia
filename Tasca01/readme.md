@@ -102,3 +102,8 @@ Dins el repositori del `projecte-3` heu de crear una carpeta anomenada `tasca01`
 - [Bitwarden - Pàgina oficial](https://bitwarden.com)
 - [KeePassXC - Pàgina oficial](https://keepassxc.org)
 - [INCIBE: Gestores de contraseñas](https://www.incibe.es/protege-tu-empresa/blog/gestores-contrasenas)
+
+
+#Solució
+
+[Fase 1: Anàlisi i Justificació](
