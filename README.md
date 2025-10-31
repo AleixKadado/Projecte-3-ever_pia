@@ -100,8 +100,19 @@ Els productes finals que s’elaboraran i el seu percentatge en l’avaluació d
 
 
 
-# Tasca del projecta
+# Tasques del projecte
 
 Tasca 01:[Gestor de contrasenyes](Tasca01/readme.md)
 
 Tasca 02:[Gestió emmagatzematge](Tasca02/readme.md)
+
+Tasca 03:[Gestió flexible de discos (LVM i Espais d’emmagatzematge)
+](Tasca03/readme.md)
+
+Tasca 04:[Serveis de directori. LDAP](Tasca04/readme.md)
+
+Tasca 05:[ Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria
+](Tasca05/readme.md)
+
+Tasca 06:[ Fonaments del servei DNS
+](Tasca06/readme.md)
