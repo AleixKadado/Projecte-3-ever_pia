@@ -116,3 +116,7 @@ Tasca 05:[ Anàlisi de l’entorn: possibles models de negoci pels clients tecno
 
 Tasca 06:[ Fonaments del servei DNS
 ](Tasca06/readme.md)
+
+Tasca 07:[Instal·lant un servidor de noms ](Tasca07/readme.md)
+
+Tasca 08:[Sitemaps i Estructura d’una pàgina web ](Tasca08/readme.md)
