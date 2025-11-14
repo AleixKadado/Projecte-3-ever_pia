@@ -1,5 +1,7 @@
 # T04: Serveis de directori LDAP
 
+![ujjuuj](img/captura1.png)
+
 ## 1️⃣ Configuració inicial del servidor
 
 * Canviem el hostname a:
