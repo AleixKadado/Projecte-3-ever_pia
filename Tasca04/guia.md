@@ -2,9 +2,9 @@
 
 ![ujjuuj](img/1)
 
-![ujjuuj](img/1)
+![ujjuuj](img/2)
 
-![ujjuuj](img/1)
+![ujjuuj](img/3)
 
 ## 1️⃣ Configuració inicial del servidor
 
@@ -13,12 +13,15 @@
 ```bash
 sudo hostnamectl set-hostname server.innovatech15.test
 
-![ujjuuj](img/1)
+
+
+
+![ujjuuj](img/4)
 
 ```
 * Modifiquem el fitxer `/etc/hosts` per reflectir el nou hostname.
 
-![ujjuuj](img/1)
+![ujjuuj](img/5)
 
 
 * Per establir comunicació amb l’amfitrió, configurem:
@@ -27,17 +30,17 @@ sudo hostnamectl set-hostname server.innovatech15.test
   * Un adaptador en **mode pont**.
 
 
-![ujjuuj](img/1)
+![ujjuuj](img/6)
 
-![ujjuuj](img/1)
+![ujjuuj](img/7)
 
 * Editem la configuració de xarxa amb **netplan** segons la nostra topologia.
 
-  ![ujjuuj](img/1)
+  ![ujjuuj](img/8)
 
-  ![ujjuuj](img/1)
+  ![ujjuuj](img/9)
 
-  ![ujjuuj](img/1)
+  ![ujjuuj](img/10)
 
 ## 2️⃣ Instal·lació i gestió de LDAP
 
