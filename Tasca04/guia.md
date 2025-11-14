@@ -32,7 +32,7 @@ sudo hostnamectl set-hostname server.innovatech15.test
 
 ![ujjuuj](img/6)
 
-![ujjuuj](img/7)
+![ujjuuj](img/Captura de pantalla 2025-11-14 163308.png)
 
 * Editem la configuració de xarxa amb **netplan** segons la nostra topologia.
 
