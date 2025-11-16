@@ -16,21 +16,20 @@ sudo hostnamectl set-hostname server.innovatech15.test
 
 
 
-![ujjuuj](img/4)
-
 ```
 * Modifiquem el fitxer `/etc/hosts` per reflectir el nou hostname.
 
 ![ujjuuj](img/5)
 
 
+![ujjuuj](img/6)
+
 * Per establir comunicació amb l’amfitrió, configurem:
 
   * Una interfície de tipus **Host-Only**.
   * Un adaptador en **mode pont**.
-
-
-![ujjuuj](img/6)
+ 
+    
 
 ![ujjuuj](img/Captura de pantalla 2025-11-14 163308.png)
 
