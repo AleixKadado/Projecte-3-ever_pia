@@ -1,10 +1,6 @@
 # T04: Serveis de directori LDAP
 
-![ujjuuj](img/1)
-
-![ujjuuj](img/2)
-
-![ujjuuj](img/3)
+![ujjuuj](img/captura1.png)
 
 ## 1️⃣ Configuració inicial del servidor
 
@@ -19,10 +15,6 @@ sudo hostnamectl set-hostname server.innovatech15.test
 ```
 * Modifiquem el fitxer `/etc/hosts` per reflectir el nou hostname.
 
-![ujjuuj](img/5)
-
-
-![ujjuuj](img/6)
 
 * Per establir comunicació amb l’amfitrió, configurem:
 
@@ -35,11 +27,6 @@ sudo hostnamectl set-hostname server.innovatech15.test
 
 * Editem la configuració de xarxa amb **netplan** segons la nostra topologia.
 
-  ![ujjuuj](img/8)
-
-  ![ujjuuj](img/9)
-
-  ![ujjuuj](img/10)
 
 ## 2️⃣ Instal·lació i gestió de LDAP
 
@@ -49,7 +36,7 @@ sudo hostnamectl set-hostname server.innovatech15.test
 systemctl status slapd
 ```
 
-![ujjuuj](img/1)
+
 
 
 * Si no està instal·lat, instal·lem el paquet:
@@ -58,11 +45,11 @@ systemctl status slapd
 sudo apt install slapd
 ```
 
-![ujjuuj](img/1)
+
 
 * Verifiquem que el directori s’ha creat amb el **nom correcte**.
 
-  ![ujjuuj](img/1)
+
 
 ## 3️⃣ Creació de les Unitats Organitzatives (OUs)
 
@@ -81,11 +68,7 @@ ldapadd -x -D "cn=admin,dc=innovatech15,dc=test" -W -f ou.ldif
 ldapsearch -x -LLL -b "dc=innovatech15,dc=test" ou
 ```
 
-![ujjuuj](img/1)
 
-![ujjuuj](img/1)
-
-![ujjuuj](img/1)
 
 ## 4️⃣ Instal·lació del gestor LDAP (LAM)
 
@@ -127,9 +110,6 @@ pam_mkhomedir.so skel=/etc/skel/ umask=0022
 
 * Verifiquem que el sistema mostra correctament els usuaris provinents del directori LDAP.
 
-![ujjuuj](img/1)
-
-![ujjuuj](img/1)
 
 
 ## 6️⃣ Permetre l’inici de sessió gràfica
@@ -137,5 +117,5 @@ pam_mkhomedir.so skel=/etc/skel/ umask=0022
 * Assegurem que els usuaris del domini LDAP poden iniciar sessió gràfica al sistema.
 * Prova d’inici de sessió amb `manager01` o `tech01`.
 
-![ujjuuj](img/1)
+
 
